@@ -1,2 +1,2 @@
 select *
-from {{ source('source', 'bike') }} 
+from {{ source('demo', 'bike') }} 
